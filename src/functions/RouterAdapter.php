@@ -40,13 +40,13 @@ class RAdapter
                 "name" => $name,
                 "path" => $path,
                 "http_domain" => $http_domain,
-                "mysqlAdapter" => new MysqlAdapter(
-                    $_ENV['DB_HOST'],
-                    $_ENV['DB_USER'],
-                    $_ENV['DB_PASS'],
-                    $_ENV['DB_NAME'],
-                    $_ENV['DB_PORT']
-                ),
+                // "mysqlAdapter" => new MysqlAdapter(
+                //     $_ENV['DB_HOST'],
+                //     $_ENV['DB_USER'],
+                //     $_ENV['DB_PASS'],
+                //     $_ENV['DB_NAME'],
+                //     $_ENV['DB_PORT']
+                // ),
             ];
 
             // Comprobar si se envio un callback
@@ -92,13 +92,13 @@ class RAdapter
                 "name" => $name,
                 "path" => $path,
                 "http_domain" => $http_domain,
-                "mysqlAdapter" => new MysqlAdapter(
-                    $_ENV['DB_HOST'],
-                    $_ENV['DB_USER'],
-                    $_ENV['DB_PASS'],
-                    $_ENV['DB_NAME'],
-                    $_ENV['DB_PORT']
-                ),
+                // "mysqlAdapter" => new MysqlAdapter(
+                //     $_ENV['DB_HOST'],
+                //     $_ENV['DB_USER'],
+                //     $_ENV['DB_PASS'],
+                //     $_ENV['DB_NAME'],
+                //     $_ENV['DB_PORT']
+                // ),
             ];
 
             // Comprobar si se envio un callback
@@ -141,13 +141,13 @@ class RAdapter
             $DATA = [
                 "path" => $path,
                 "http_domain" => $http_domain,
-                "mysqlAdapter" => new MysqlAdapter(
-                    $_ENV['DB_HOST'],
-                    $_ENV['DB_USER'],
-                    $_ENV['DB_PASS'],
-                    $_ENV['DB_NAME'],
-                    $_ENV['DB_PORT']
-                ),
+                // "mysqlAdapter" => new MysqlAdapter(
+                //     $_ENV['DB_HOST'],
+                //     $_ENV['DB_USER'],
+                //     $_ENV['DB_PASS'],
+                //     $_ENV['DB_NAME'],
+                //     $_ENV['DB_PORT']
+                // ),
                 "autorized" => true
             ];
             // Comprobar si se envio un callback

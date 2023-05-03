@@ -18,28 +18,12 @@ require_once(__DIR__ . '/src/functions/middlewares.php');
 
 
 // cargamos los objetos de acceso a datos
-require_once('./src/dao/InfoDao.php');
-require_once('./src/dao/UserDao.php');
-require_once('./src/dao/LinkDao.php');
-require_once('./src/dao/PlanDao.php');
-require_once('./src/dao/SliderDao.php');
-require_once('./src/dao/SocialDao.php');
-require_once('./src/dao/RestriccionDao.php');
-require_once('./src/dao/PreguntaDao.php');
-require_once('./src/dao/MensajeDao.php');
+// require_once('./src/dao/InfoDao.php');
 
 
 
 // cargamos los servicios para el web service (WEB SERVICE)
-require_once('./src/services/info.service.php');
-require_once('./src/services/user.service.php');
-require_once('./src/services/link.service.php');
-require_once('./src/services/slider.service.php');
-require_once('./src/services/social.service.php');
-require_once('./src/services/mensaje.service.php');
-require_once('./src/services/plan.service.php');
-require_once('./src/services/pregunta.service.php');
-require_once('./src/services/restriccion.service.php');
+// require_once('./src/services/info.service.php');
 
 
 // cargamos las variables de entorno

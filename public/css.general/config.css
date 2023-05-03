@@ -1,51 +1,52 @@
 @font-face {
     src: url('./../font.general/Oregano-Regular.ttf');
-    font-family: Oregano-Regular;
+    font-family: Oregano;
 }
 
 @font-face {
     src: url('./../font.general/Nunito-Regular.ttf');
-    font-family: Nunito-Regular;
+    font-family: nunito;
 }
 
 :root {
-    --primary_background: #ffffff;
-    --primary_background_hover: #e8e8e8;
-    --primary_color: #000000;
-    --primary_color_hover: #0f0f0f;
-    --secondary_background: #0378C0;
-    --secondary_background_hover: #0371b5;
-    --secondary_color: #ffffff;
-    --secondary_color_hover: #afafaf;
-    --tertiary_background: #ffffff;
-    --tertiary_background_hover: #ececec;
-    --tertiary_color: #131313;
-    --tertiary_color_hover: #000000;
-    --success: #19A15F;
-    --info: #427ad5;
-    --warnning: #FFCD42;
-    --error: #DD5145;
+    --color1: #4575c9;
+    --color1-contrast1: #ffffff;
+    --color2: rgba(69, 117, 201, 0.71);
+    --color2-contrast1: #ffffff;
+    --color3: #ffffff;
+    --color3-contrast1: #5e88fc;
+    --color3-contrast2: #8790af;
+    
+    --color4: linear-gradient(80deg, #4d41c6, #66b2ea);
+    --color4-contrast1: #ffffff;
+    --color4-contrast2: #5e88fc;
+    --color4-contrast3: #e1e1e1;
+    
+    --color5: #192229;
+    --color5-contrast1: #ffffff;
+    --color5-contrast2: #b3b3b3;
     
     
     
-    
-    --global_background3: #e3605d;
-    --global_color3: #e3605d;
-    --global-shadow1: 0 0 20px 1px #e3605d;
+    --max-width: 1200px;
+    --padding: 50px;
+    --header-height: 90px;
 }
 
 * {
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
-    font-family: sans-serif;
-    user-select: none;
+    font-family: nunito, sans-serif;
+/*    user-select: none;*/
     outline: none;
     border-style: none;
 
-    --max-width: 1200px;
-    --padding: 50px;
-    --header-height: 90px;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding: 60px;
 }
 
 img {
