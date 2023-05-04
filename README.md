@@ -2,51 +2,46 @@
 
 ## 📋 DATOS GENERALES
 
-<!-- <ul>
-  <li><b>Cliente:</b> 🦷 Clinica Odontologia Dr. Ayora</li>
-  <li><b>Fecha de inicio:</b> 📅 11/03/2023</li>
-  <li><b>Fecha de entrega:</b> 📅 24/03/2023</li>
-  <li><b>Estado:</b> 🚧 En desarrollo</li>
-  <li><b>Version:</b> 🚀 1.0.0</li>
-</ul> -->
+<ul>
+    <li><b>Cliente:</b> ✅ Moronanet</li>
+    <li><b>Estado:</b> 🎉 En producción</li>
+    <li><b>Version:</b> 🚀 1.0.0</li>
+    <li><b>Nombre:</b> 😎 Landing Page para la APP 'Clientes Moronanet'</li>
+</ul>
 
 ## 📋 DESCRIPCION
 
-<!-- <p>
-  🦷 La aplicación web ha sido diseñada específicamente para la Clínica Odontológica del Dr. David Ayora y el Dr. Claudio Ayora. Su propósito principal es proporcionar información sobre la clínica y sus servicios, además de ofrecer una funcionalidad especial para la gestión de citas médicas.
-  <br>
-  <br>
-  💻 La aplicación web ha sido desarrollada por Ideasoft utilizando diversas tecnologías, incluyendo PHP, HTML, JS, CSS, Apache y MySQL. Se ha creado un panel de administración para la gestión y actualización de la información de la página web de manera fácil e intuitiva.
-  <br>
-  <br>
-  📆 La funcionalidad de gestión de citas médicas permite a los pacientes solicitar citas en línea, lo que hace que el proceso sea más rápido y fácil. Los pacientes pueden seleccionar el tipo de tratamiento que necesitan, el día y la hora que les conviene, y recibir una confirmación inmediata de su cita.
-  <br>
-  <br>
-  🤝 La aplicación web es de código abierto y su uso es gratuito para cualquier persona o entidad que desee utilizarla. La aplicación puede ser modificada y distribuida libremente, siempre y cuando se reconozca a Ideasoft como el desarrollador original de la aplicación.
-  <br>
-  <br>
-  💯 En resumen, la aplicación web desarrollada por Ideasoft es una solución eficaz para la Clínica Odontológica del Dr. David Ayora y el Dr. Claudio Ayora, que permite a los pacientes solicitar citas médicas en línea de manera fácil y rápida. La aplicación web también cuenta con un panel de administración intuitivo que permite a los administradores actualizar y gestionar la información de la página web de manera sencilla. La aplicación es de código abierto y se puede utilizar, modificar y distribuir libremente bajo los términos y condiciones de la licencia.
-</p> -->
+<p>
+    👋 ¡Bienvenido a nuestra aplicación! 👋
+    <br><br>
+    ¿Te has sentido frustrado alguna vez por no poder encontrar tus facturas, contrato o tickets de soporte técnico de tu proveedor de internet? ¡No te preocupes más! Con nuestra aplicación, tendrás acceso fácil y rápido a toda la información de tus servicios de internet con Moronanet.
+    <br><br>
+    📱💻 Accede desde cualquier dispositivo 📱💻
+    <br><br>
+    ¡Ya no tendrás que estar buscando tus documentos en una pila de papeles o en una carpeta de tu ordenador! Con nuestra aplicación, podrás acceder a toda la información desde tu móvil, tablet o computadora.
+    <br><br>
+    🔒🛡️ Tu información está segura con nosotros 🔒🛡️
+    <br><br>
+    Nuestra aplicación no recopila información adicional, solo te permite acceder a la información que ya proporcionaste a Moronanet. Además, cualquier información que se recoja para los tickets de soporte técnico se manejará con la más estricta confidencialidad y solo será utilizada para solucionar tus problemas.
+    <br><br>
+    🙅‍♀️ No te preocupes por la eliminación de información 🙅‍♀️
+    <br><br>
+    No necesitarás solicitar la eliminación de información, ya que la información se almacenará solo mientras sea necesario para atender tus solicitudes de soporte técnico. Si deseas eliminar tus datos personales, deberás dejar de usar nuestros servicios.
+    <br><br>
+    ¡Gracias por confiar en nosotros! ¡Descarga nuestra aplicación y facilita tu vida con Moronanet!
+    <br><br>
+</p>
 
 ## 📝 LICENCIA
 
-<!-- <p>
-  📝 Licencia de Código Abierto de la Aplicación Web desarrollada por Ideasoft para la Clínica Odontológica del Dr. David Ayora y el Dr. Claudio Ayora 🦷
-  <br>
-  <br>
-  Esta aplicación web es de código abierto y su uso está permitido a cualquier persona o entidad que desee utilizarla. Cualquier persona o entidad que desee utilizar esta aplicación web puede hacerlo de forma gratuita, sin limitaciones de uso, distribución o modificación, siempre y cuando se cumplan las siguientes condiciones:
-  <br>
-  <ol>
-    <li>🙏 Se debe reconocer a Ideasoft como el desarrollador original de la aplicación.</li>
-    <li>🛠️ Cualquier modificación realizada a la aplicación debe ser documentada y se debe proporcionar una notificación de los cambios realizados.</li>
-    <li>🤝 Si se desea distribuir la aplicación o cualquier parte de ella, se debe hacer bajo los mismos términos y condiciones que se mencionan en esta licencia.</li>
-  </ol>
-  <br>
-  La aplicación web desarrollada por Ideasoft para la Clínica Odontológica del Dr. David Ayora y el Dr. Claudio Ayora se proporciona "tal cual" y sin garantías de ningún tipo, ya sean expresas o implícitas, incluidas, entre otras, las garantías de comercialización, adecuación para un propósito particular y no infracción de derechos de terceros. En ningún caso, Ideasoft será responsable por ningún daño directo, indirecto, incidental, especial o consecuencial que surja de, o en relación con, el uso o la incapacidad de utilizar esta aplicación web.
-  <br>
-  <br>
-  En resumen, esta aplicación web es de código abierto y puede ser utilizada y modificada libremente por cualquier persona o entidad. Ideasoft no ofrece garantías y no se hace responsable de ningún daño que pueda surgir del uso de esta aplicación web. Si decides utilizar esta aplicación web, aceptas los términos y condiciones de esta licencia. 🤗
-</p> -->
+<p>
+    Este proyecto es de código abierto, ¡lo que significa que es completamente libre! 🙌 Puedes usarlo, copiarlo, modificarlo y distribuirlo como desees para tus propios proyectos sin ningún tipo de restricciones. 🚀
+    <br><br>
+    Nos encanta la idea de que más personas puedan utilizar y mejorar nuestra landing page. ¡Así que adelante y úsala como quieras! 💻
+    <br><br>
+    ¡Gracias por visitarnos y disfruta del código! 😎
+    <br><br>
+</p>
 
 # 📦 DOCUMENTACION DE INSTALACION
 
@@ -60,15 +55,17 @@
 Crea el archivo <b><i>.env</i></b> en la raiz del proyecto y configuralo
 
 ```env
-  # PROJECT
-  HTTP_DOMAIN = {{YOUR_DOMAIN}}
+    # PROJECT
+    HTTP_DOMAIN = {{TOUR_DOMAIN}}
+    TITLE = {{TITLE_OF_LANDING_PAGE}}
+    APP_NAME = {{APP_NAME}}
 
-  # MYSQLI
-  DB_HOST = {{YOUR_DB_HOST}}
-  DB_USER = {{YOUR_DB_USER}}
-  DB_PASS = {{YOUR_DB_PASS}}
-  DB_NAME = {{YOUR_DB_NAME}}
-  DB_PORT =  {{YOUR_DB_PORT}}
+    # MYSQLI
+    DB_HOST = {{YOUR_DB_HOST}}
+    DB_USER = {{YOUR_DB_USER}}
+    DB_PASS = {{YOUR_DB_PASS}}
+    DB_NAME = {{YOUR_DB_NAME}}
+    DB_PORT =  {{YOUR_DB_PORT}}
 ```
 
 ## 🐬 MYSQL
