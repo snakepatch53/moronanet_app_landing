@@ -105,3 +105,20 @@
 .galeria .item .text p {
     line-height: 2.3rem;
 }
+
+
+@media(max-width: 900px) {
+    .galeria .container {
+        flex-direction: column-reverse;
+    }
+
+    .galeria .swiper {
+        max-width: 250px;
+    }
+
+    .galeria .item .text {
+        justify-content: center;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+}

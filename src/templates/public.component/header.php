@@ -12,4 +12,7 @@
             <li><a href="<?= $DATA['http_domain'] ?>#section-developer">Desarrollador</a></li>
         </ul>
     </nav>
+    <button class="burger-btn" id="burger-btn">
+        <i class="fas fa-bars"></i>
+    </button>
 </div>

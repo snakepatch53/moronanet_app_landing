@@ -223,3 +223,10 @@
 .about .video .item p {
     color: var(--color3-contrast2);
 }
+
+
+@media (max-width: 900px) {
+    .about .container.video {
+        flex-direction: column;
+    }
+}

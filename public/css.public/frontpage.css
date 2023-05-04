@@ -80,3 +80,32 @@
 .frontpage .item a i {}
 
 .frontpage .item a span {}
+
+
+@media (max-width: 900px) {
+    .frontpage {
+        height: auto;
+    }
+
+    .frontpage .container {
+        flex-direction: column-reverse;
+    }
+
+    .frontpage .item {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .frontpage .item p,
+    .frontpage .item h1 {
+        text-align: center;
+    }
+
+    .frontpage .item a {
+        margin: auto;
+    }
+    
+    .frontpage .item img {
+        max-height: 500px;
+    }
+}

@@ -20,8 +20,9 @@ footer .container {
 }
 
 footer .items {
-    display: flex;
-    gap: 100px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 100px;
 }
 
 footer .item {
@@ -91,6 +92,7 @@ footer .final {
     color: var(--color5-contrast2);
     font-size: 0.9rem;
     letter-spacing: 1px;
+    text-align: center;
 }
 
 footer .final a {
@@ -105,4 +107,26 @@ footer .final a {
 footer .final a:hover {
     text-decoration: underline;
     transition: all 0.2s ease;
+}
+
+@media (max-width: 1200px) {
+    footer .items {
+        grid-gap: 50px;
+    }
+}
+
+@media (max-width: 1000px) {
+    footer .items {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    footer .items {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+    footer .final {
+        margin-top: 70px;
+    }
 }
