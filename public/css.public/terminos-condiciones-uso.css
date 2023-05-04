@@ -1,0 +1,88 @@
+header {
+    background-image: var(--color4) !important;
+    border-bottom: solid 1px #25323c;
+    position: fixed;
+    top: 0;
+}
+
+main {
+    background: var(--color3);
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px var(--padding);
+}
+
+section .container {
+    width: 100%;
+    max-width: var(--max-width);
+}
+
+section .container * {
+/*    font-family: manrope;*/
+    user-select: text;
+}
+
+
+main .container h1,
+main .container h2 {
+    color: var(--color3-contrast1);
+}
+
+main .container h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+main .container h2 {
+    font-size: 1.5rem;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+main .container p {
+    color: var(--color3-contrast2);
+    font-size: 1rem;
+    line-height: 1.8rem;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+
+main .container p.out {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+main .container ul a,
+main .container p a {
+    text-decoration: none;
+    color: var(--color3-contrast3);
+    letter-spacing: 0.5px;
+    transition: all 0.2s ease;
+}
+
+main .container ul a:hover,
+main .container p a:hover {
+    text-decoration: underline;
+    transition: all 0.2s ease;
+}
+
+main .container ol,
+main .container ul {
+    color: var(--color3-contrast1);
+    padding-left: 20px;
+}
+
+main .container ol li p,
+main .container ul li p {
+    margin-bottom: 20px;
+}
+
+main .container ol {}
+
+main .container ul {}
+
+main .container li {}

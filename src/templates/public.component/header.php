@@ -5,11 +5,11 @@
     </a>
     <nav>
         <ul>
-            <li><a href="#section-home">Inicio</a></li>
-            <li><a href="#section-about">Descripción</a></li>
-            <li><a href="#section-chars">Características</a></li>
-            <li><a href="#section-galery">Galería</a></li>
-            <li><a href="#section-developer">Desarrollador</a></li>
+            <li><a href="<?= $DATA['http_domain'] ?>#section-home">Inicio</a></li>
+            <li><a href="<?= $DATA['http_domain'] ?>#section-about">Descripción</a></li>
+            <li><a href="<?= $DATA['http_domain'] ?>#section-chars">Características</a></li>
+            <li><a href="<?= $DATA['http_domain'] ?>#section-galery">Galería</a></li>
+            <li><a href="<?= $DATA['http_domain'] ?>#section-developer">Desarrollador</a></li>
         </ul>
     </nav>
 </div>

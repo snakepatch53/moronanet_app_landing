@@ -11,3 +11,5 @@ $radapter->getHTML('/', 'home');
 $radapter->getHTML('/home', 'home');
 $radapter->getHTML('/inicio', 'home');
 $radapter->getHTML('/index.php', 'home');
+$radapter->getHTML('/terminos-condiciones-uso', 'terminos-condiciones-uso');
+$radapter->getHTML('/politica-privacidad', 'politica-privacidad');
