@@ -40,10 +40,10 @@ $LINK_POLITICA_PRIVACIDAD = '<a target="_blank" href="' . $DATA['http_domain'] .
                                 <p>La aplicación "<?= $_ENV['APP_NAME'] ?>" está destinada únicamente a los clientes de la empresa proveedora de internet "<?= $LINK_MORONANET ?>". Los clientes que no tienen credenciales que les permitan ingresar a la aplicación no podrán hacer uso de ella. Si una persona externa logra obtener credenciales de otra persona e ingresa a la aplicación, será sancionada por la entidad reguladora de la seguridad informática de Ecuador. Es importante destacar que está prohibido que un cliente haga solicitudes de tickets innecesarias o que en caso de solicitar una revisión en la que claramente fue responsable del daño no quiera asumir los gastos de la revisión y la reparación.</p>
                             </li>
                             <li>
-                                <p>La aplicación no está autorizada para pedir datos personales de las personas que la utilicen. Los únicos datos que recaudará serán estrictamente de revisiones o tickets para brindar ese tipo de servicio de parte de <?= $LINK_MORONANET ?>. Toda esa información recaudada no la maneja la aplicación, sino el proveedor de servidor integrado Mikrowisp, donde la aplicación accede mediante una APP. Por lo tanto, todas las políticas de privacidad en esta aplicación se repiten ya que depende directamente del buen o mal uso de la información que haga Mikrowisp.</p>
+                                <p>La aplicación no está autorizada para pedir datos personales de las personas que la utilicen. Los únicos datos que recaudará serán estrictamente de revisiones o tickets para brindar ese tipo de servicio de parte de <?= $LINK_MORONANET ?>. Toda esa información recaudada no la maneja la aplicación, sino el proveedor de servidor integrado Mikrowisp, donde la aplicación accede mediante una API.</p>
                             </li>
                             <li>
-                                <p>La aplicación no tiene ningún costo de descarga ni de uso en instancias de Playstore, siempre y cuando esté subida a la cuenta de <?= $LINK_MORONANET ?>, que es la encargada oficialmente de publicar esta aplicación. En caso de observarse la misma aplicación en otra cuenta y con beneficios económicos, debe denunciarse ante <?= $LINK_MORONANET ?>, <?= $LINK_IDEASOFT ?> o <?= $LINK_HAROLD ?>.</p>
+                                <p>La aplicación no tiene ningún costo de descarga ni de uso en instancias de Google Play Store, siempre y cuando esté subida a la cuenta de <?= $LINK_MORONANET ?>, que es la encargada oficialmente de publicar esta aplicación. En caso de observarse la misma aplicación en otra cuenta y con beneficios económicos, debe denunciarse ante <?= $LINK_MORONANET ?>, <?= $LINK_IDEASOFT ?> o <?= $LINK_HAROLD ?>.</p>
                             </li>
                         </ul>
                     </li>
@@ -53,13 +53,10 @@ $LINK_POLITICA_PRIVACIDAD = '<a target="_blank" href="' . $DATA['http_domain'] .
                             <p>Advertir al usuario que ha infringido nuestros términos y condiciones.</p>
                         </li>
                         <li>
-                            <p>Limitar, suspender o eliminar el acceso a ciertas o todas las funcionalidades de la plataforma.</p>
+                            <p>Limitar, suspender o eliminar el acceso a ciertas o todas las funcionalidades de la app.</p>
                         </li>
                         <li>
                             <p>Limitar, suspender o eliminar la cuenta del usuario.</p>
-                        </li>
-                        <li>
-                            <p>Prohibir al usuario crear otra cuenta en la plataforma.</p>
                         </li>
                         <li>
                             <p>Informar de la conducta del usuario a las autoridades competentes.</p>
