@@ -13,7 +13,7 @@
                 <img src="<?= $DATA['http_domain'] ?>public/img/bg1.jpg" alt="Imagen 1">
             </div>
             <div class="player">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/lTmeDOaDCO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/kQZntbpVwfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 <button class="play_btn" id="btn-playvideo">
                     <img src="<?= $DATA['http_domain'] ?>public/img/play.jpg" alt="Imagen de play">
                     <i class="fas fa-play"></i>
